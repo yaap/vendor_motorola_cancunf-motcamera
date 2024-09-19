@@ -14,15 +14,15 @@ PRODUCT_PACKAGES += \
     com.motorola.motosignature \
     moto-core_services \
     moto-settings \
-    com.motorola.motosignature \
-    moto-core_services \
-    moto-settings \
-    com.motorola.camera3.cancunf \
-    com.motorola.camera3.content.ai \
-    com.motorola.camera3.lens \
-    com.motorola.camera3 \
-    com.motorola.moto-uirefresh \
-    deviceowner-configuration-com.motorola.camera3 \
-    privapp-permissions-com.motorola.camera3 \
-    hiddenapi-whitelist-com.motorola.camera3 \
+    com.motorola.motosignature.xml \
+    moto-core_services.xml \
+    moto-settings.xml \
+    com.motorola.camera3.cancunf.xml \
+    com.motorola.camera3.content.ai.xml \
+    com.motorola.camera3.lens.xml \
+    com.motorola.camera3.xml \
+    com.motorola.moto-uirefresh.xml \
+    deviceowner-configuration-com.motorola.camera3.xml \
+    privapp-permissions-com.motorola.camera3.xml \
+    hiddenapi-whitelist-com.motorola.camera3.xml \
     motsettings
